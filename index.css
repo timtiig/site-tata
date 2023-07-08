@@ -115,7 +115,7 @@ p{
 }
 .adr2{
     margin: 0%;
-    margin-left: 23%;
+    margin-left: 21%;
 }
 .embleme{
     display: inline-block;
@@ -204,7 +204,7 @@ li{
 
 .rectangle7{
     width: 450px;
-    height : 275px;
+    height : 300px;
     margin: 2%;
 }
 
@@ -239,7 +239,7 @@ li{
 }
 
 .rectangle13{
-    height: 350px;
+    height: 375px;
     width: 500px;
     margin: 2%;
 }
@@ -315,4 +315,11 @@ section {
     p{
         font-size:1.1em;
     }
+}
+
+span{
+    font-weight:bold;
+    font-family: 'Cookie', cursive;
+    margin: 4%;
+    font-size: 2em;
 }
